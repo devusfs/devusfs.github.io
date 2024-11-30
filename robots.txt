@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://devus.in/sitemap.xml
+Sitemap: https://devusfs.github.io/sitemap.xml
