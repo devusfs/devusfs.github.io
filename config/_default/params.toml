@@ -13,7 +13,7 @@ logo = "logo.png"
 ## Open Graph
 images = ["logo.png"]
 ogLocale = "en_US"
-domainTLD = "https://devus.in"
+domainTLD = "https://devusfs.github.io"
 titleHome = "DEVUS"
 
 ## Twitter Cards
